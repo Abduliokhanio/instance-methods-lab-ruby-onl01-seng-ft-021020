@@ -4,3 +4,5 @@ class Dog
   }
 end
 
+jiji = Dog.new
+jiji.bark
